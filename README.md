@@ -42,16 +42,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yuvrajmnit007&theme=tokyo-night"/>
-
-</p>
-
----
-
 ## 💻 Tech Stack
 
 <p align="center">
@@ -93,7 +83,6 @@
 </a>
 
 </p>
-----
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=yuvrajmnit007&label=Profile+Views&color=0e75b6&style=flat"/>
