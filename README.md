@@ -74,21 +74,21 @@
 
 ## 🌐 Connect With Me
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
 </a>
 
 <a href="https://leetcode.com/u/yuvrajmnit/">
-<img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
+<img src="https://iconscout.com/free-3d-icon/free-leetcode-3d-icon_9325307" height="45"/>
 </a>
 
 <a href="https://codeforces.com/profile/Yuvraj_007">
 <img src="https://cdn.simpleicons.org/codeforces" height="45"/>
 </a>
 
-<a href="mailto:yourmail@gmail.com">
+<a href="mailto:2024uec1758@mnit.ac.in">
 <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
 </a>
 
