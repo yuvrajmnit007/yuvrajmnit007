@@ -16,8 +16,8 @@
 
 ## 🏆 Competitive Programming
 
-- 🔥 1400+ DSA Problems Solved
-- ⭐ LeetCode Rating: **1854 (Knight)**
+- 🔥 1500+ DSA Problems Solved
+- ⭐ LeetCode Rating: **1874 (Knight)**
 - ⭐ Codeforces Rating: **1564 (Specialist)**
 
 ---
