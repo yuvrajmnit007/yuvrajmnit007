@@ -7,7 +7,7 @@
 ## 🚀 About Me
 
 - 🎓 B.Tech ECE @ MNIT Jaipur
-- 💻 Backend Developer (FastAPI + Postgresql)
+- 💻 Backend Developer (FastAPI + Postgresql + MERN)
 - ⚡ Competitive Programmer
 - 🌱 Currently learning Backend Development, Docker, Redis, System Design & React
 - 🎯 Goal: Software Engineer at a Top Product Company
