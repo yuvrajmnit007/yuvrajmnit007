@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yuvraj Choudhary</h1>
 
-<h3 align="center">Backend Developer | Competitive Programmer | B.Tech ECE @ MNIT Jaipur</h3>
+<h3 align="center">Backend Developer | Competitive Programmer |AI/ML | B.Tech ECE @ MNIT Jaipur</h3>
 
 ---
 
